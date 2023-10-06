@@ -1,0 +1,9 @@
+export { default as Main } from './Main';
+export { default as Navbar } from './Navbar';
+export { default as Sidebar } from './Sidebar';
+export { default as List } from './List';
+export { default as Favourite } from './Favourite';
+export { default as Details } from './Details';
+export { default as Card } from './Card';
+export { default as CreateNew } from './CreateNew';
+export { default as MyRecipes } from './MyRecipes';
